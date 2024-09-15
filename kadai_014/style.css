@@ -1,6 +1,8 @@
+html{
+    font-size: 20px;
+}
 body{
     font-family:"Arial","Meiryo",sans-serif ;
-    font-size :20px;
     text-align:center;
 }
 .google-fonts{ 
@@ -8,9 +10,10 @@ body{
   font-optical-sizing : auto ;
   font-weight : weight ;
   font-style : normal ;
+  /* remルート要素の何倍*/ 
   font-size : 2rem ;
   color : black;
-  border-bottom:solid 3px black;
+  border-bottom:solid 3px rgb(115,115,114);
   text-shadow:1px 1px 2px red;
   letter-spacing:1.2em;
 }
