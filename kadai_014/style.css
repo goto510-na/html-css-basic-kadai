@@ -23,7 +23,7 @@ body{
 .text-bold2{
     color:rgb(255, 192, 203);
 }
-#parent > p {
+#basic > p {
     font-weight: bold;
 }
 
