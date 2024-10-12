@@ -5,7 +5,7 @@ header{
 }
 h1{
     color: rgb(255, 255, 255);
-    margin: 0px,0px,0px,0px;
+    margin: 0px 0px 0px 0px;
 }
 
 main {
@@ -35,7 +35,7 @@ h2::before{
     content:"⚫︎";
     color:rgb(239, 111, 139);
 }
-p:nth-of-type(2)::first-letter{
+.contents p:nth-of-type(2)::first-letter{
     color: rgb(97, 206, 249);
     font-weight:bold;
 }
